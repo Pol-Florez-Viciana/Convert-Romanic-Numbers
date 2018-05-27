@@ -1,4 +1,9 @@
+
 Imports vb = Microsoft.VisualBasic
+
+' Este Formulario Contiene Un Boton Llamado: Convertir
+' Este Formulario Contiene Un TextBox Llamado: Resultado
+' Este Formulario Contiene Un InputNumber con Maximo Valor 99999 y Minimo 0 , Llamado: Numero 
 Public Class Form1
 
     Private Sub Convertir_Click(sender As Object, e As EventArgs) Handles Convertir.Click
